@@ -16,14 +16,6 @@ In the current world, there is no *automatic system* in place to find whether cu
 
 ## **Solution:**
 Build a classification model to decide whether it is a positive or negative or neutral category. Also, build a system to understand themes around the customer's feedback.   
-The data has feedback of different airlines; feel free to use all data and show sentiments across operators
+The data has feedback of different airlines;
 
-# ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-# REFER NOTEBOOKS
-/home/shritid/source/Kaggle_competitions/news_stockprice_prediction/
-
-/home/shritid/source/oldnotebooks_windows/MachineLearning Projects_jalajthanaki/Sentiment_Analysis/
-
-#TEXT CLASSIFICATION
-/home/shritid/source/Data_Science/projects/analytics vidya/Free_Text_Class/
